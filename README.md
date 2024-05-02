@@ -14,9 +14,9 @@ Maven Roasters operates under a customer-centric business model, offering a dive
 2. Exploratory Data Analysis (EDA): Utilizing Excel, I conducted in-depth EDA to uncover insights and trends within the dataset.
 3. Pivot Tables and Charts: Employing pivot tables and charts, I visualized key metrics and trends, providing stakeholders with intuitive and actionable insights.
 4. Dashboard Creation: Finally, I synthesized my findings into a dynamic dashboard, offering stakeholders a comprehensive overview of Maven Roasters' performance metrics and actionable insights at a glance.
-Key Findings:
-Sales Trends: The analysis revealed a notable peak in sales during the morning hours, particularly between 7 am to 10 am, indicating a significant morning rush for Maven Roasters. Additionally, sales are highest on Mondays, closely followed by Fridays.
-Peak Business Days: Mondays emerge as the busiest day for Maven Roasters, likely driven by the start of the workweek and customers seeking their caffeine fix. Fridays also see high sales activity, possibly as patrons wind down for the weekend.
-Product Performance: Among Maven Roasters' offerings, coffee and tea stand out as the top-selling products, capturing the majority of sales. In contrast, packaged chocolate exhibits lower sales compared to other products, indicating potential areas for targeted marketing or product refinement.
+## Key Findings:
+- Sales Trends: The analysis revealed a notable peak in sales during the morning hours, particularly between 7 am to 10 am, indicating a significant morning rush for Maven Roasters. Additionally, sales are highest on Mondays, closely followed by Fridays.
+- Peak Business Days: Mondays emerge as the busiest day for Maven Roasters, likely driven by the start of the workweek and customers seeking their caffeine fix. Fridays also see high sales activity, possibly as patrons wind down for the weekend.
+- Product Performance: Among Maven Roasters' offerings, coffee and tea stand out as the top-selling products, capturing the majority of sales. In contrast, packaged chocolate exhibits lower sales compared to other products, indicating potential areas for targeted marketing or product refinement.
 
 By leveraging data-driven insights, Maven Roasters can refine their strategies, optimize operations, and ultimately enhance their competitive position in the thriving NYC coffee scene.
